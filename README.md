@@ -19,5 +19,5 @@
 <p>&nbsp;&nbsp;&nbsp;  </p>
 
 <p><b> Links dos Projetos: </b></p>
-<p> Heroku - <a href="https://dsmeta-theus.herokuapp.com/"> https://dsmeta-theus.herokuapp.com/ </a></p>
-<p> Netlify - <a href="https://dsmeta-theus.netlify.app/"> https://dsmeta-theus.netlify.app/ </a></p>
+<p> Heroku - <a href="https://dsmeta-theus.herokuapp.com/" target="_BLANK"> https://dsmeta-theus.herokuapp.com/ </a></p>
+<p> Netlify - <a href="https://dsmeta-theus.netlify.app/" target="_BLANK"> https://dsmeta-theus.netlify.app/ </a></p>
